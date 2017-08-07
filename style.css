@@ -1,0 +1,59 @@
+.headerContent {
+  color: white;
+  background-color: rgb(41, 38, 40);
+  font-family: 'Slabo 27px', serif;
+  font-size: 48px;
+  height: 101px;
+  text-align: center;
+  font-weight: lighter;
+  letter-spacing: 7px;
+}
+
+.header {
+  margin: 0 auto;
+  width: 100%;
+}
+.basics {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.content {
+  display: flex;
+  padding: 0 70px;
+  justify-content: center;
+}
+
+img {
+  border-radius: 1000px;
+}
+
+.subtitles {
+  font-family: 'Slabo 27px', serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+span {
+  color: rgb(20, 131, 128);
+}
+
+.profile-pic {
+  height: 110px;
+}
+
+.leftContent {
+  padding-right: 70px;
+  padding-left: 148px;
+}
+
+.rightContent {
+  padding-right: 148px;
+  padding-left: 70px;
+
+}
+
+.bio {
+    border-left: 1px solid gray;
+    padding-left: 50px;
+}
